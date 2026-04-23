@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور القمر يسطع في العيون
+> حبك سحرني وصرت مجنون
+> شوقي ينادي في صمت الليل
+> روحي تنادي بدمع يسيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
